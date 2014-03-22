@@ -20,7 +20,7 @@
     <module>codemucker-jmutate</module>
     <module>codemucker-jpattern</module>
     <module>codemucker-testfirst</module>
-    <module>codemucker-match</module>
+    <module>codemucker-jmatch</module>
     <module>codemucker-testserver</module>
   </modules>
 
