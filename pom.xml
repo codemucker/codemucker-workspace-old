@@ -15,9 +15,10 @@
   <modules>
     <module>codemucker-lang</module>
     <module>codemucker-parent</module>
-    <module>codemucker-test</module>
+    <module>codemucker-jtest</module>
+    <module>codemucker-jfind</module>
     <module>codemucker-jmutate</module>
-    <module>codemucker-annotations</module>
+    <module>codemucker-jpattern</module>
     <module>codemucker-testfirst</module>
     <module>codemucker-match</module>
     <module>codemucker-testserver</module>
