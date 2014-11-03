@@ -22,6 +22,9 @@
     <module>codemucker-testfirst</module>
     <module>codemucker-jmatch</module>
     <module>codemucker-testserver</module>
+    <!--<module>codemucker-gwt-generate</module>-->
+    <module>jmutate-maven-plugin</module>
+    
   </modules>
 
 </project>
