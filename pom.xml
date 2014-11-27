@@ -24,7 +24,7 @@
     <module>codemucker-testserver</module>
     <!--<module>codemucker-gwt-generate</module>-->
     <module>jmutate-maven-plugin</module>
-    
+   <!-- <module>codemucker-cqrs</module>-->
   </modules>
 
 </project>

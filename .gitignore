@@ -1,5 +1,7 @@
 #all the projects as they ae their own repos
 codemucker-*/
+infrastructure/
+jmutate-maven-plugin/
 
 # maven
 target/
