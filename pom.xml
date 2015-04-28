@@ -11,7 +11,9 @@
 	<name>org.codemucker - Aggregator</name>
 
 	<packaging>pom</packaging>
-
+	<scm>
+       <developerConnection>scm:git:git@github.com/codemucker/root.git</developerConnection>
+    </scm>
   <modules>
     <module>codemucker-lang</module>
 <!--    <module>codemucker-jproperty</module>-->    
