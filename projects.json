@@ -1,0 +1,114 @@
+{
+    "projects": [
+        {
+            "name": "codemucker-tk",
+            "dir": "tools/tk",
+            "repo": "git@github.com:codemucker/tk.git",
+            "branch": "master",
+            "tags": [],
+            "type": "shell"
+        },
+        {
+            "name": "deno-script",
+            "dir": "tools/deno-script",
+            "repo": "git@github.com:codemucker/deno-script.git",
+            "branch": "master",
+            "tags": [],
+            "type": "deno"
+        },
+
+        {
+            "name": "codemucker-ts-libs",
+            "dir": "libs/codemucker-ts-libs",
+            "repo": "git@github.com:codemucker/codemucker-ts-libs.git",
+            "branch": "master",
+            "tags": []
+        },
+
+        {
+            "name": "codemucker-aggregator",
+            "dir": "legacy/java/codemucker-aggregator",
+            "repo": "git@github.com:codemucker/codemucker-aggregator.git",
+            "branch": "master",
+            "tags": ["java", "mvn"]
+        },
+        {
+            "name": "codemucker-aggregator",
+            "dir": "legacy/java/codemucker-aggregator",
+            "repo": "git@github.com:codemucker/codemucker-aggregator.git",
+            "branch": "master",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-parent",
+            "dir": "legacy/java/codemucker-parent",
+            "repo": "git@github.com:codemucker/codemucker-parent.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-lang",
+            "dir": "legacy/java/codemucker-lang",
+            "repo": "git@github.com:codemucker/codemucker-lang.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-jmatch",
+            "dir": "legacy/java/codemucker-jmatch",
+            "repo": "git@github.com:codemucker/codemucker-jmatch.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-jpattern",
+            "dir": "legacy/java/codemucker-jpattern",
+            "repo": "git@github.com:codemucker/codemucker-jpattern.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-jfind",
+            "dir": "legacy/java/codemucker-jfind",
+            "repo": "git@github.com:codemucker/codemucker-jfind.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-jtest",
+            "dir": "legacy/java/codemucker-jtest",
+            "repo": "git@github.com:codemucker/codemucker-jtest.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-testfirst",
+            "dir": "legacy/java/codemucker-testfirst",
+            "repo": "git@github.com:codemucker/codemucker-testfirst.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-testserver",
+            "dir": "legacy/java/codemucker-testserver",
+            "repo": "git@github.com:codemucker/codemucker-testserver.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "codemucker-csv",
+            "dir": "legacy/java/codemucker-csv",
+            "repo": "git@github.com:codemucker/codemucker-csv.git",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        },
+        {
+            "name": "jmutate-maven-plugin ",
+            "dir": "legacy/java/jmutate-maven-plugin",
+            "repo": "git@github.com:codemucker/jmutate-maven-plugin",
+            "tags": ["java", "mvn"],
+            "type": "java"
+        }
+    ]
+}
