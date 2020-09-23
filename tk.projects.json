@@ -27,18 +27,17 @@
 
         {
             "name": "codemucker-aggregator",
-            "dir": "legacy/java/codemucker-aggregator",
+            "dir": "legacy/java",
             "repo": "git@github.com:codemucker/codemucker-aggregator.git",
             "branch": "master",
             "tags": ["java", "mvn"]
         },
         {
-            "name": "codemucker-aggregator",
-            "dir": "legacy/java/codemucker-aggregator",
-            "repo": "git@github.com:codemucker/codemucker-aggregator.git",
+            "name": "codemucker-jmutate",
+            "dir": "legacy/java/codemucker-jmutate",
+            "repo": "git@github.com:codemucker/codemucker-jmutate.git",
             "branch": "master",
-            "tags": ["java", "mvn"],
-            "type": "java"
+            "tags": ["java", "mvn"]
         },
         {
             "name": "codemucker-parent",
