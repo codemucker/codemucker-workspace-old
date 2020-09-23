@@ -13,9 +13,9 @@ if ! command -v tk command -v o &> /dev/null; then
     git clone git@github.com:codemucker/tk.git tools/tk
     pushd ./tools/tk >/dev/null
         git checkout master
-        bin/tk projects clone
+        bin/tk tk.projects.clone
     popd >/dev/null
 else
-    tk projects clone
+    tk.projects.clone
 fi
 
