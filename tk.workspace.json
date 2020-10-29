@@ -16,7 +16,6 @@
             "tags": [],
             "type": "deno"
         },
-
         {
             "name": "codemucker-ts-libs",
             "dir": "libs/codemucker-ts-libs",
@@ -24,7 +23,6 @@
             "branch": "master",
             "tags": []
         },
-
         {
             "name": "codemucker-ts-jest-scenario",
             "dir": "libs/codemucker-ts-jest-scenario",
@@ -36,6 +34,13 @@
             "name": "codemucker-ts-logging",
             "dir": "libs/codemucker-ts-logging",
             "repo": "git@github.com:codemucker/codemucker-ts-logging.git",
+            "branch": "develop",
+            "tags": []
+        },
+        {
+            "name": "codemucker-ts-lang",
+            "dir": "libs/codemucker-ts-lang",
+            "repo": "git@github.com:codemucker/codemucker-ts-lang.git",
             "branch": "develop",
             "tags": []
         },
