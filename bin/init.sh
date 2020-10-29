@@ -9,13 +9,7 @@ set -Eeuo pipefail & set -e
 cd "${0%/*}/.." # set the CWD to the root dir
 
 if ! command -v tk command -v o &> /dev/null; then
-    echo "'tk' is not installed'" 
-    git clone git@github.com:codemucker/tk.git tools/tk
-    pushd ./tools/tk >/dev/null
-        git checkout master
-        bin/tk tk.projects.clone
-    popd >/dev/null
-else
-    tk.projects.clone
+    curl -s "https://raw.githubusercontent.com/codemucker/tk/master/install.sh" | bash
 fi
+tk tk.projects.clone
 

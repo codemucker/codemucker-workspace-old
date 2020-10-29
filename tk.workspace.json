@@ -26,6 +26,34 @@
         },
 
         {
+            "name": "codemucker-ts-jest-scenario",
+            "dir": "libs/codemucker-ts-jest-scenario",
+            "repo": "git@github.com:codemucker/codemucker-ts-jest-scenario.git",
+            "branch": "develop",
+            "tags": []
+        },
+        {
+            "name": "codemucker-ts-logging",
+            "dir": "libs/codemucker-ts-logging",
+            "repo": "git@github.com:codemucker/codemucker-ts-logging.git",
+            "branch": "develop",
+            "tags": []
+        },
+        {
+            "name": "codemucker-ts-error",
+            "dir": "libs/codemucker-ts-error",
+            "repo": "git@github.com:codemucker/codemucker-ts-error.git",
+            "branch": "develop",
+            "tags": []
+        },
+        {
+            "name": "codemucker-ts-jest-scenario",
+            "dir": "libs/codemucker-ts-jest-scenario",
+            "repo": "git@github.com:codemucker/codemucker-ts-jest-scenario.git",
+            "branch": "develop",
+            "tags": []
+        },
+        {
             "name": "codemucker-aggregator",
             "dir": "legacy/java",
             "repo": "git@github.com:codemucker/codemucker-aggregator.git",
