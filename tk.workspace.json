@@ -17,44 +17,44 @@
             "type": "deno"
         },
         {
-            "name": "codemucker-ts-libs",
-            "dir": "libs/codemucker-ts-libs",
-            "repo": "git@github.com:codemucker/codemucker-ts-libs.git",
+            "name": "codemucker-js-libs",
+            "dir": "libs/js-libs",
+            "repo": "git@github.com:codemucker/codemucker-js-libs.git",
             "branch": "master",
             "tags": []
         },
         {
-            "name": "codemucker-ts-jest-scenario",
-            "dir": "libs/codemucker-ts-jest-scenario",
-            "repo": "git@github.com:codemucker/codemucker-ts-jest-scenario.git",
+            "name": "codemucker-js-jest-scenario",
+            "dir": "libs/js-jest-scenario",
+            "repo": "git@github.com:codemucker/codemucker-js-jest-scenario.git",
             "branch": "develop",
             "tags": []
         },
         {
-            "name": "codemucker-ts-logging",
-            "dir": "libs/codemucker-ts-logging",
-            "repo": "git@github.com:codemucker/codemucker-ts-logging.git",
+            "name": "codemucker-js-logging",
+            "dir": "libs/js-logging",
+            "repo": "git@github.com:codemucker/codemucker-js-logging.git",
             "branch": "develop",
             "tags": []
         },
         {
-            "name": "codemucker-ts-lang",
-            "dir": "libs/codemucker-ts-lang",
-            "repo": "git@github.com:codemucker/codemucker-ts-lang.git",
+            "name": "codemucker-js-lang",
+            "dir": "libs/js-lang",
+            "repo": "git@github.com:codemucker/codemucker-js-lang.git",
             "branch": "develop",
             "tags": []
         },
         {
-            "name": "codemucker-ts-error",
-            "dir": "libs/codemucker-ts-error",
-            "repo": "git@github.com:codemucker/codemucker-ts-error.git",
+            "name": "codemucker-js-error",
+            "dir": "libs/js-error",
+            "repo": "git@github.com:codemucker/codemucker-js-error.git",
             "branch": "develop",
             "tags": []
         },
         {
-            "name": "codemucker-ts-jest-scenario",
-            "dir": "libs/codemucker-ts-jest-scenario",
-            "repo": "git@github.com:codemucker/codemucker-ts-jest-scenario.git",
+            "name": "codemucker-js-jest-scenario",
+            "dir": "libs/js-jest-scenario",
+            "repo": "git@github.com:codemucker/codemucker-js-jest-scenario.git",
             "branch": "develop",
             "tags": []
         },
